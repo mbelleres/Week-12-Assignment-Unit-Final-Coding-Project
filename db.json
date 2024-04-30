@@ -1,0 +1,19 @@
+{
+  "guitars": [
+    {
+      "id": "0",
+      "genre": "Rock",
+      "guitartype": "Electric Guitar"
+    },
+    {
+      "id": "1",
+      "genre": "Blues",
+      "guitartype": "Blues Guitar"
+    },
+    {
+      "id": "2",
+      "genre": "Jazz",
+      "guitartype": "Jazz Guitar"
+    }
+  ]
+}
